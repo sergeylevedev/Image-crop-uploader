@@ -1,0 +1,15 @@
+.col-sm-4 {
+	background-color: #ecf0f1;
+	border-style: outset;
+    	border-width: medium;
+	border-color: #7f8c8d;
+}
+
+.col-sm-4-heading {
+	color: #354b60;
+	text-align: center;
+}
+
+.col-sm-8 {
+	background-color: #FFFFFF;
+}
